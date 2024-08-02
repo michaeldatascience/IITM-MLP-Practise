@@ -3,7 +3,6 @@
 _____
 ### Course structure
 
-
 [WEEK 1](https://github.com/faizanxmulla/machine-learning-practice/tree/main/W1%20-%20Introduction) - 	End-to-end machine learning project on scikit-learn
 
 [WEEK 2](https://github.com/faizanxmulla/machine-learning-practice/tree/main/W2%20-%20Data%20Preprocessing) - 	End-to-end machine learning project on scikit-learn (continued)
@@ -29,16 +28,3 @@ _____
 [WEEK 12](https://github.com/faizanxmulla/machine-learning-practice/tree/main/W12%20-%20Neural%20Networks) - 	Neural networks models in scikit-learn
 
 ______
-
-### What you’ll learn
-
-
-* Understand the life cycle of a machine learning project - typical steps involved and tools that can be used in each step.
-
-* Using machine learning algorithms to solve practical problems using libraries like scikit-learn and tensorflow.
-
-* Fine tuning the algorithms through regularization, feature selection, and better models.
-
-* Develop an understanding of evaluation of machine learning algorithms and decide the next steps based on the analysis.
-
----
